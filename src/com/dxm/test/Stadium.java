@@ -3,6 +3,11 @@ package com.dxm.test;
 import java.util.concurrent.Delayed;
 import java.util.concurrent.TimeUnit;
 
+/**
+ * @author user
+ * zhangsan
+ *
+ */
 public class Stadium implements Delayed {
 	
 	private long  i;
